@@ -6,7 +6,7 @@ function HeaderImg({typeHeader}) {
  
   const sobHeader=(
     <section 
-      className=" flex flex-col text-blue-gray-50  items-center px-[15%] pt-[76px] pb-5 bg-[url('bg/fundo_sobre.jpg')] bg-cover bg-no-repeat bg-center ">
+      className=" flex flex-col text-blue-gray-50  items-center px-[15%] pt-[76px] pb-5 bg-[url('/bg/fundo_sobre.jpg')] bg-cover bg-no-repeat bg-center ">
           <h1 className=' text-4xl font-bold mt-[20%] mb-2'>Nome da empresa</h1>
           <h2 className='mb-[20%]'>Conheca nossos serviços</h2>
     </section>);
@@ -14,7 +14,7 @@ function HeaderImg({typeHeader}) {
   
   const contHeader=(
   <section 
-    className="text-blue-gray-900 flex justify-center items-center px-[15%] pt-[76px] pb-5  md:bg-none bg-[#4E84A6] bg-[url('bg/contato.png')] bg-contain bg-no-repeat bg-bottom">
+    className="text-blue-gray-900 flex justify-center items-center px-[15%] pt-[76px] pb-5  md:bg-none bg-[#4E84A6] bg-[url('/bg/contato.png')] bg-contain bg-no-repeat bg-bottom">
         <img src="bg/contato.png" className='hidden md:block md:w-1/2 ' alt="" />
         <div className=" flex flex-col rounded-2xl backdrop-blur-[1px] md:rounded-none md:bg-transparent bg-blue-gray-50 bg-opacity-50 px-3 py-2  md:border-l-2 md:border-blue-gray-50 md:w-1/2">
             <h1 className=' font-bold text-2xl  pb-2 pl-2 '>
