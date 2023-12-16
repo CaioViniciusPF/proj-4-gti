@@ -1,0 +1,40 @@
+{
+    "Sedes":[
+        {   
+            "id":"1",
+            "titulo":"Nome Local1",
+            "text":"Localização1",
+            "img":"bg/map1.png"
+        },
+        {
+            "id":"2",
+            "titulo":"Nome Local2",
+            "text":"Localização2",
+            "img":"bg/map2.png"
+        },
+        {
+            "id":"3",
+            "titulo":"Nome Local3",
+            "text":"Localização3",
+            "img":"bg/map3.png"
+        },
+        {
+            "id":"4",
+            "titulo":"Nome Local4",
+            "text":"Localização4",
+            "img":"bg/map1.png"
+        },
+        {
+            "id":"5",
+            "titulo":"Nome Local5",
+            "text":"Localização5",
+            "img":"bg/map2.png"
+        },
+        {
+            "id":"6",
+            "titulo":"Nome Local6",
+            "text":"Localização6",
+            "img":"bg/map3.png"
+        }
+    ]
+}

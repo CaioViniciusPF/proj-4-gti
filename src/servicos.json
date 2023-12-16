@@ -1,0 +1,22 @@
+{
+    "Servicos":[
+        {
+            "id":"1",
+            "titulo":"Servico 1",
+            "text":"The place is close to Barceloneta Beach and bus stop just 2 min by walk and near to Naviglio  where you can enjoy the mainnight life in Barcelona txt1.",
+            "img":"bg/servicoimg1.png"
+        },
+        {
+            "id":"2",
+            "titulo":"Servico 2",
+            "text":"The place is close to Barceloneta Beach and bus stop just 2 min by walk and near to Naviglio  where you can enjoy the mainnight life in Barcelona txt2.",
+            "img":"bg/servicoimg2.png"
+        },
+        {
+            "id":"3",
+            "titulo":"Servico 3",
+            "text":"The place is close to Barceloneta Beach and bus stop just 2 min by walk and near to Naviglio  where you can enjoy the mainnight life in Barcelona txt3.",
+            "img":"bg/servicoimg3.png"
+        }
+    ]
+}
